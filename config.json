@@ -1,0 +1,31 @@
+{
+  
+  "default_prefix": "!",
+    "owners": "913194952962478141",
+    
+
+
+   "guildid": "913197023279329330",
+   "emoji": {
+        "play": "<a:music:861991614440013835>",
+        "stop": "⏹️",
+        "queue": "📄",
+        "success": "☑️",
+        "repeat": "🔁",
+        "error": "❌",
+ "YOUTUBE_API_KEY": "",
+ "premium": "490044569488982017",
+ "PREFIX": "!",
+ "mongodb": "",
+ "database": "",
+ "BOT_ID": "913305887899283456",
+ "embedcolor": "BLUE",
+ "EMOJI_ARROW":"🔄",
+ "WELCOME_CHANNEL": "tess",
+    "QUEUE_LIMIT": 2,
+    "owners": "913194952962478141",
+    "AME_API": "",
+    "COLOR": "00FFFF",
+    "mongourl": ""
+}
+}
